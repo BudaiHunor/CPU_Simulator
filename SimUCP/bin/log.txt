@@ -1,0 +1,12 @@
+The registers:
+eax = 3
+ebx = 2
+ecx = 1
+edx = 3
+
+The memory:
+MEM[0] = 1000
+MEM[1] = 123
+MEM[2] = 256
+MEM[3] = 1365
+
